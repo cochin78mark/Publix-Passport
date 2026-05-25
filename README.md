@@ -16,9 +16,9 @@ The Publix Passport Expense Tracker is an intuitive, specialized financial utili
 - **Package Manager:** NPM
 
 ## Author
-- **Name:** Your A/C Name
-- **Email:** Your a/c email id
-- **Website:** 
+- **Name:** Cochin
+- **Email:** cochin78mark@outlook.com
+- **Website:** [Publix Passport](https://www.publixpassport.com.co)
 - **Bio:** Dedicated Frontend Architect and Systems Optimization Specialist with over a decade of experience crafting enterprise-grade web applications. Recognized for combining deep algorithmic knowledge with elegant UI design, they specialize in building lightweight tools that maximize productivity. Passionate about empowering teams and giving back to the community, they are always available to mentor emerging developers and contribute to open-source workflows.
 
 ## Getting Started
